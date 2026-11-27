@@ -1,0 +1,7 @@
+interface:
+  display_name: "Syntec Ladder SDK"
+  short_description: "Build, validate, and design Syntec .lad ladder logic"
+  default_prompt: "Use $syntec-lad to inspect this .lad file, check the engineering knowledge references, and prepare a reviewed, natively validated change."
+
+policy:
+  allow_implicit_invocation: true
